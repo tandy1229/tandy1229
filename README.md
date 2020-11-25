@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 ### Hi there, I'm Tandy 👋
 
-- 🌱 I’m currently learning CS
+- 🌱 I’m currently learning IS
 - 📫 My website: [tandy](https://tandy1229.com)
-- 😄 My current os： macos && arch
+- 😄 My current os： Macos && Arch
 - ⚡ My current editer: VIM & VScode
