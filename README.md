@@ -20,5 +20,5 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning IS
 - 📫 My website: [https://tandy1229.com](https://tandy1229.com)
-- 😄 My current os： Macos && Arch
-- ⚡ My current editer: VIM & VScode
+- 😄 My current os： Mac Os && Arch
+- ⚡ My current editer: Neovim
