@@ -19,6 +19,6 @@ Here are some ideas to get you started:
 ### Hi there, I'm Tandy 👋
 
 - 🌱 I’m currently learning IS
-- 📫 My website: [https://tandy1229.com](https://tandy1229.com)
+- 📫 My website: [https://tandy1229.github.io](https://tandy1229.github.io)
 - 😄 My current os： Mac Os && Arch
 - ⚡ My current editer: Neovim
