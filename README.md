@@ -23,4 +23,5 @@ Here are some ideas to get you started:
 - ⚡ My current editer: Neovim
 
 ![Tandy's GitHub stats](https://github-readme-stats.vercel.app/api?username=tandy1229&show_icons=true&theme=radical)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=tandy1229)
+
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tandy1229" />
