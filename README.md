@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 - 📫 My website: [https://tandy1229.github.io](https://tandy1229.github.io)
 - 😄 My current os： Mac Os && Arch
 - ⚡ My current editer: Neovim
-
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tandy1229" />
 ![Tandy's GitHub stats](https://github-readme-stats.vercel.app/api?username=tandy1229&show_icons=true&theme=radical)
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tandy1229" />
+
