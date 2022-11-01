@@ -14,7 +14,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=tandy1229&show_icons=true&text_color=718096&bg_color=ffffff&&theme=transparent&hide_title=true" />
 
 ### Hi there, I'm Tandy 👋
 
@@ -22,4 +21,6 @@ Here are some ideas to get you started:
 - 📫 My website: [https://tandy1229.github.io](https://tandy1229.github.io)
 - 😄 My current os： Mac Os && Arch
 - ⚡ My current editer: Neovim
+
+![Tandy's GitHub stats](https://github-readme-stats.vercel.app/api?username=tandy1229&show_icons=true&theme=radical)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=tandy1229)
