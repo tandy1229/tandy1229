@@ -28,4 +28,5 @@ Here are some ideas to get you started:
 ![Tandy's GitHub stats](https://github-readme-stats.vercel.app/api?username=tandy1229&show_icons=true&theme=radical)
 
 
-![](https://activity-graph.herokuapp.com/graph?username=tandy1229)
+
+![Tandy's github activity graph](https://activity-graph.herokuapp.com/graph?username=tandy1229&theme=tokyo-night)
