@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=tandy1229&show_icons=true&text_color=718096&bg_color=ffffff&theme=dracula&hide_title=true" />
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=tandy1229&show_icons=true&text_color=718096&bg_color=ffffff&&theme=transparent&hide_title=true" />
 
 ### Hi there, I'm Tandy 👋
 
