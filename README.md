@@ -14,11 +14,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tandy1229&theme=radical" />
+
 ### Hi there, I'm Tandy 👋
 
 - 🌱 I’m currently learning IS
 - 📫 My website: [https://tandy1229.github.io](https://tandy1229.github.io)
+
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tandy1229&theme=radical" />
+
 - 😄 My current os： Mac Os && Arch
 - ⚡ My current editer: Neovim
 
