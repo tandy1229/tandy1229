@@ -1,6 +1,7 @@
 ### Hi there, I'm Tandy <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 - 🌱 I’m currently learning IS
+
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tandy1229&theme=radical&hide=javascript,html,css,asl" />
 
 - 📫 My website: [https://tandy1229.github.io](https://tandy1229.github.io)
