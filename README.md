@@ -20,6 +20,9 @@
 
 ![Tandy's github activity graph](https://activity-graph.herokuapp.com/graph?username=tandy1229&theme=tokyo-night)
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ray-x/ray-x/output/github-contribution-grid-snake.svg" />
+</p>
 
 <!--
 **tandy1229/tandy1229** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
