@@ -11,7 +11,7 @@
 
 ![](https://img.shields.io/github/stars/tandy1229?style=for-the-badge&logo=github)
 ![](https://img.shields.io/github/followers/tandy1229?style=for-the-badge&logo=github) 
-![](https://komarev.com/ghpvc/?username=tandy1229&style=flat-square)
+![](https://komarev.com/ghpvc/?username=tandy1229&label=Profile%20views%20since%202022-11-29&style=for-the-badge)
 
 
 
