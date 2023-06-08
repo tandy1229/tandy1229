@@ -7,7 +7,7 @@
 - 📫 My website: [https://tandy1229.github.io](https://tandy1229.github.io)
 - 😄 My current os： Mac OS
 - ⚡ My current editer: Neovim
-- 🔭 ****I’m currently looking for a job 😭😭😭 ...****
+- 🔭 ****I’m currently graduating...****
 
 ![](https://img.shields.io/github/stars/tandy1229?style=for-the-badge&logo=github)
 ![](https://img.shields.io/github/followers/tandy1229?style=for-the-badge&logo=github) 
