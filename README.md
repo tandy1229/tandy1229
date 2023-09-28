@@ -3,12 +3,12 @@
 ![:name](https://count.getloli.com/get/@:tandy1229?theme=rule34)
 
 - 🌱 I’m a Bachelor of Information Security
-
 - 📫 My website: [https://tandy1229.github.io](https://tandy1229.github.io)
 - 😄 My current os: Mac OS
 - ⚡ My current editer: Neovim
 - 💔 In memory of ****Bram****, the father of VIM:-(
 - 🔭 ****I’m currently working && learning rust...****
+
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tandy1229&theme=radical&hide=javascript,html,css,asl" />
 
 ![](https://img.shields.io/github/stars/tandy1229?style=for-the-badge&logo=github)
