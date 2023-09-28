@@ -19,12 +19,13 @@
 
 ![Tandy's GitHub stats](https://github-readme-stats.vercel.app/api?username=tandy1229&show_icons=true&theme=radical)
 
+<!--
 <p align="center">
   <img src="https://raw.githubusercontent.com/ray-x/ray-x/output/github-contribution-grid-snake.svg" />
 </p>
 
 
-<!--
+
 ![Tandy's github activity graph](https://activity-graph.herokuapp.com/graph?username=tandy1229&theme=tokyo-night)
 
 
