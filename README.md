@@ -4,10 +4,9 @@
 
 - 🌱 I’m a Bachelor of Information Security
 - 📫 My website: [https://tandy1229.github.io](https://tandy1229.github.io)
-- 😄 My current os: Mac OS
 - ⚡ My current editer: Neovim
-- 💔 In memory of ****Bram****, the father of VIM:-(
-- 🔭 ****I’m currently working && learning rust...****
+- 💔 In memory of ****Bram****, the creater of VIM:-(
+- 🔭 ****I’m currently working && learning network...****
 
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tandy1229&theme=radical&hide=javascript,html,css,asl" />
 
